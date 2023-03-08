@@ -11,7 +11,7 @@ public class kaulins {
 		}
 		}
 	public static void main(String[] args) {
-		mestKaulinu(2);
+		mestKaulinu(4);
 
 	}
 
